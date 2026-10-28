@@ -1,0 +1,33 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #222222;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+#intro {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+#intro img {
+  border-radius: 50%;
+}
+
+.card {
+  background-color: #ffffff;
+  border: 2px solid #bf5700;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+a {
+  color: #bf5700;
+}
+
+a:hover {
+  color: #005f86;
+}
